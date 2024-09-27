@@ -7,5 +7,9 @@ Social medias :
 - [Instagram](https://www.instagram.com/f.febzz/)
 - [Roblox acc](https://www.roblox.com/users/4730596636/profile)
 
+Others -
+- Volleyball
+- badminton
+  
 Favorites : 
-https://open.spotify.com/playlist/3RKLNp6YGKuhTFg09zsQLn?si=aq7JZm7yReCO1UWy264gGA&pi=vac9RsEdTP-Dp
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3RKLNp6YGKuhTFg09zsQLn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
